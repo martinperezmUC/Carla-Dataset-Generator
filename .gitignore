@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# CARLA / Salidas del programa
+output/
+*.log
+
+# Empaquetado
+build/
+dist/
+*.spec
